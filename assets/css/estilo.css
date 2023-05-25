@@ -1,0 +1,35 @@
+body {
+
+ background-color: black;  
+color: orange;
+ }
+    
+ fieldset {
+border-color: rgb(158, 123, 190);
+ margin-bottom: 100px;
+ border-style: dotted;
+ }
+
+ 
+ 
+
+ .git {
+    width: 1800px;
+    padding: 7px;
+    border-color: rgb(105, 31, 173);
+    margin-top: auto;
+    margin-bottom: 10px;
+   border-width: 3px;
+ }
+ 
+ #menu{
+    list-style-type: none; 
+    text-align: right;
+ }
+
+ #menu li{
+    display: inline;
+    margin-right: 5px ;
+ }
+
+ 
